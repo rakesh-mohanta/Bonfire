@@ -1,7 +1,5 @@
 # Change Log
 
-## Under development
-
 ### 0.8.1
 
 #### New Features:
